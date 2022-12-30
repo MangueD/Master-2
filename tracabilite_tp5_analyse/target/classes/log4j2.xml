@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Properties>
+        <Property name="filename">./logs/output</Property>
+    </Properties>
+    <Appenders>
+        <RollingFile name="file" fileName="${filename}/logs.json"
+                     filePattern="${filename}/logs-%d{HH-mm-ss.SSS}.json">
+            <JSONLayout complete="true" compact="false"/>
+            <SizeBasedTriggeringPolicy size="1000000" />
+        </RollingFile>
+    </Appenders>
+    <Loggers>
+        <Root level="trace">
+            <AppenderRef ref="file"/>
+        </Root>
+    </Loggers>
+</Configuration>

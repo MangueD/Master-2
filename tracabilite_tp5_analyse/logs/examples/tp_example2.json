@@ -1,0 +1,1640 @@
+[
+{
+  "instant" : {
+    "epochSecond" : 1672404456,
+    "nanoOfSecond" : 48534000
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.users.UserRepository",
+  "message" : "{\"user\" : \"null\", \"where\" : \"catch\", \"exception\" : \"ParseException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404456,
+    "nanoOfSecond" : 133532900
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"null\", \"where\" : \"catch\", \"exception\" : \"ParseException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404483,
+    "nanoOfSecond" : 199217100
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.users.UserRepository",
+  "message" : "{\"user\" : \"null\", \"method\" : \"createUser\", \"parameters\" : [\"1\", \"1\", \"32\", \"1.1@1.1\", \"1\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404503,
+    "nanoOfSecond" : 23547700
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"1\", \"where\" : \"catch\", \"exception\" : \"NumberFormatException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404533,
+    "nanoOfSecond" : 316918600
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"1\", \"method\" : \"addProduct\", \"parameters\" : [\"1\", \"patate\", \"1.23\", \"Sun Jan 01 00:00:00 CET 13\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404561,
+    "nanoOfSecond" : 529556200
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"1\", \"where\" : \"catch\", \"exception\" : \"ParseException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404573,
+    "nanoOfSecond" : 42224400
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"1\", \"method\" : \"addProduct\", \"parameters\" : [\"1\", \"pomme\", \"10.0\", \"Sat Jan 01 00:00:00 CET 1\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404573,
+    "nanoOfSecond" : 43225200
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"1\", \"where\" : \"throw\", \"exception\" : \"ProductAlreadyExistsException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404573,
+    "nanoOfSecond" : 43225200
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"1\", \"where\" : \"catch\", \"exception\" : \"ProductAlreadyExistsException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404605,
+    "nanoOfSecond" : 725918100
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"1\", \"method\" : \"addProduct\", \"parameters\" : [\"2\", \"pomme\", \"2.23\", \"Wed Nov 01 00:00:00 CET 1111\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404626,
+    "nanoOfSecond" : 417967000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"1\", \"method\" : \"addProduct\", \"parameters\" : [\"3\", \"boeuf\", \"23.34\", \"Mon Dec 11 00:00:00 CET 2023\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404647,
+    "nanoOfSecond" : 112464800
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"1\", \"method\" : \"addProduct\", \"parameters\" : [\"2\", \"porc\", \"100.0\", \"Sat Nov 11 00:00:00 CET 1111\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404647,
+    "nanoOfSecond" : 113375100
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"1\", \"where\" : \"throw\", \"exception\" : \"ProductAlreadyExistsException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404647,
+    "nanoOfSecond" : 113375100
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"1\", \"where\" : \"catch\", \"exception\" : \"ProductAlreadyExistsException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404668,
+    "nanoOfSecond" : 806006200
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"1\", \"method\" : \"addProduct\", \"parameters\" : [\"4\", \"canard\", \"30.21\", \"Mon Nov 11 00:00:00 CET 2024\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404704,
+    "nanoOfSecond" : 718234700
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"1\", \"method\" : \"addProduct\", \"parameters\" : [\"5\", \"figue\", \"3.4\", \"Mon Dec 12 00:00:00 CET 2050\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404747,
+    "nanoOfSecond" : 445249300
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"1\", \"method\" : \"addProduct\", \"parameters\" : [\"5\", \"banane\", \"1.23\", \"Sat Nov 11 00:00:00 CET 1111\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404747,
+    "nanoOfSecond" : 446165200
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"1\", \"where\" : \"throw\", \"exception\" : \"ProductAlreadyExistsException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404747,
+    "nanoOfSecond" : 446165200
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"1\", \"where\" : \"catch\", \"exception\" : \"ProductAlreadyExistsException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404766,
+    "nanoOfSecond" : 512406200
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"1\", \"method\" : \"addProduct\", \"parameters\" : [\"6\", \"banane\", \"5.23\", \"Thu Dec 12 00:00:00 CET 2024\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404815,
+    "nanoOfSecond" : 843269300
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.users.UserRepository",
+  "message" : "{\"user\" : \"null\", \"method\" : \"createUser\", \"parameters\" : [\"2\", \"2\", \"2\", \"2\", \"2\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404831,
+    "nanoOfSecond" : 745020300
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"2\", \"method\" : \"getProduct\", \"parameters\" : [\"1\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+  ,{
+  "instant" : {
+    "epochSecond" : 1672404831,
+    "nanoOfSecond" : 745020300
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"2\", \"method\" : \"copy\", \"parameters\" : []}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404836,
+    "nanoOfSecond" : 470730600
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"2\", \"method\" : \"getProduct\", \"parameters\" : [\"0\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404836,
+    "nanoOfSecond" : 473629700
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"2\", \"where\" : \"throw\", \"exception\" : \"ProductNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404836,
+    "nanoOfSecond" : 474629700
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"2\", \"where\" : \"catch\", \"exception\" : \"ProductNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404840,
+    "nanoOfSecond" : 324477100
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"2\", \"method\" : \"getProduct\", \"parameters\" : [\"19\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404840,
+    "nanoOfSecond" : 324477100
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"2\", \"where\" : \"throw\", \"exception\" : \"ProductNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404840,
+    "nanoOfSecond" : 324477100
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"2\", \"where\" : \"catch\", \"exception\" : \"ProductNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404841,
+    "nanoOfSecond" : 956506500
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"2\", \"where\" : \"throw\", \"exception\" : \"OptionNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404841,
+    "nanoOfSecond" : 957594400
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"2\", \"where\" : \"catch\", \"exception\" : \"OptionNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404847,
+    "nanoOfSecond" : 942563300
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"2\", \"method\" : \"getProduct\", \"parameters\" : [\"2\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404847,
+    "nanoOfSecond" : 943564100
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"2\", \"method\" : \"copy\", \"parameters\" : []}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404853,
+    "nanoOfSecond" : 557270200
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"2\", \"method\" : \"getProduct\", \"parameters\" : [\"3\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404853,
+    "nanoOfSecond" : 557270200
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"2\", \"method\" : \"copy\", \"parameters\" : []}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404857,
+    "nanoOfSecond" : 27626500
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"2\", \"method\" : \"getProduct\", \"parameters\" : [\"6\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404857,
+    "nanoOfSecond" : 27626500
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"2\", \"method\" : \"copy\", \"parameters\" : []}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404861,
+    "nanoOfSecond" : 900069400
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"2\", \"method\" : \"getProduct\", \"parameters\" : [\"&\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404861,
+    "nanoOfSecond" : 900069400
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"2\", \"where\" : \"throw\", \"exception\" : \"ProductNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404861,
+    "nanoOfSecond" : 900069400
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"2\", \"where\" : \"catch\", \"exception\" : \"ProductNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404865,
+    "nanoOfSecond" : 81288300
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"2\", \"method\" : \"getProduct\", \"parameters\" : [\"e\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404865,
+    "nanoOfSecond" : 81288300
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"2\", \"where\" : \"throw\", \"exception\" : \"ProductNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404865,
+    "nanoOfSecond" : 81288300
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"2\", \"where\" : \"catch\", \"exception\" : \"ProductNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404895,
+    "nanoOfSecond" : 233147800
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.users.UserRepository",
+  "message" : "{\"user\" : \"null\", \"method\" : \"createUser\", \"parameters\" : [\"3\", \"3\", \"3\", \"3\", \"3\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404907,
+    "nanoOfSecond" : 743514900
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"3\", \"method\" : \"getProduct\", \"parameters\" : [\"7\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672404907,
+    "nanoOfSecond" : 743514900
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"3\", \"where\" : \"throw\", \"exception\" : \"ProductNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+},
+  {
+    "instant" : {
+      "epochSecond" : 1672404907,
+      "nanoOfSecond" : 743514900
+    },
+    "thread" : "main",
+    "level" : "DEBUG",
+    "loggerName" : "applicationSpooned.main.Main",
+    "message" : "{\"user\" : \"3\", \"where\" : \"catch\", \"exception\" : \"ProductNotFoundException\"}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672404915,
+      "nanoOfSecond" : 198532400
+    },
+    "thread" : "main",
+    "level" : "INFO",
+    "loggerName" : "applicationSpooned.products.ProductRepository",
+    "message" : "{\"user\" : \"3\", \"method\" : \"getProduct\", \"parameters\" : [\"8\"]}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672404915,
+      "nanoOfSecond" : 206944400
+    },
+    "thread" : "main",
+    "level" : "DEBUG",
+    "loggerName" : "applicationSpooned.products.ProductRepository",
+    "message" : "{\"user\" : \"3\", \"where\" : \"throw\", \"exception\" : \"ProductNotFoundException\"}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672404915,
+      "nanoOfSecond" : 206944400
+    },
+    "thread" : "main",
+    "level" : "DEBUG",
+    "loggerName" : "applicationSpooned.main.Main",
+    "message" : "{\"user\" : \"3\", \"where\" : \"catch\", \"exception\" : \"ProductNotFoundException\"}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672404957,
+      "nanoOfSecond" : 340818900
+    },
+    "thread" : "main",
+    "level" : "INFO",
+    "loggerName" : "applicationSpooned.products.ProductRepository",
+    "message" : "{\"user\" : \"3\", \"method\" : \"addProduct\", \"parameters\" : [\"7\", \"parmesan\", \"4.3\", \"Sat Nov 11 00:00:00 CET 11111\"]}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672404992,
+      "nanoOfSecond" : 37441800
+    },
+    "thread" : "main",
+    "level" : "INFO",
+    "loggerName" : "applicationSpooned.products.ProductRepository",
+    "message" : "{\"user\" : \"3\", \"method\" : \"addProduct\", \"parameters\" : [\"8\", \"cheddar\", \"0.12\", \"Sat Feb 02 00:00:00 CET 2222\"]}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672405062,
+      "nanoOfSecond" : 797561200
+    },
+    "thread" : "main",
+    "level" : "INFO",
+    "loggerName" : "applicationSpooned.products.ProductRepository",
+    "message" : "{\"user\" : \"3\", \"method\" : \"addProduct\", \"parameters\" : [\"9\", \"patata\", \"1000.0\", \"Wed Nov 01 00:00:00 CET 1111\"]}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672405075,
+      "nanoOfSecond" : 335189800
+    },
+    "thread" : "main",
+    "level" : "INFO",
+    "loggerName" : "applicationSpooned.products.ProductRepository",
+    "message" : "{\"user\" : \"3\", \"method\" : \"getProduct\", \"parameters\" : [\"e\"]}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672405075,
+      "nanoOfSecond" : 336246500
+    },
+    "thread" : "main",
+    "level" : "DEBUG",
+    "loggerName" : "applicationSpooned.products.ProductRepository",
+    "message" : "{\"user\" : \"3\", \"where\" : \"throw\", \"exception\" : \"ProductNotFoundException\"}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672405075,
+      "nanoOfSecond" : 336246500
+    },
+    "thread" : "main",
+    "level" : "DEBUG",
+    "loggerName" : "applicationSpooned.main.Main",
+    "message" : "{\"user\" : \"3\", \"where\" : \"catch\", \"exception\" : \"ProductNotFoundException\"}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672405082,
+      "nanoOfSecond" : 386886800
+    },
+    "thread" : "main",
+    "level" : "INFO",
+    "loggerName" : "applicationSpooned.products.ProductRepository",
+    "message" : "{\"user\" : \"3\", \"method\" : \"getProduct\", \"parameters\" : [\"9\"]}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672405082,
+      "nanoOfSecond" : 386886800
+    },
+    "thread" : "main",
+    "level" : "INFO",
+    "loggerName" : "applicationSpooned.products.Product",
+    "message" : "{\"user\" : \"3\", \"method\" : \"copy\", \"parameters\" : []}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672405087,
+      "nanoOfSecond" : 960963100
+    },
+    "thread" : "main",
+    "level" : "INFO",
+    "loggerName" : "applicationSpooned.products.ProductRepository",
+    "message" : "{\"user\" : \"3\", \"method\" : \"deleteProduct\", \"parameters\" : [\"z\"]}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672405087,
+      "nanoOfSecond" : 960963100
+    },
+    "thread" : "main",
+    "level" : "DEBUG",
+    "loggerName" : "applicationSpooned.products.ProductRepository",
+    "message" : "{\"user\" : \"3\", \"where\" : \"throw\", \"exception\" : \"ProductDeleteException\"}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672405087,
+      "nanoOfSecond" : 961963900
+    },
+    "thread" : "main",
+    "level" : "DEBUG",
+    "loggerName" : "applicationSpooned.main.Main",
+    "message" : "{\"user\" : \"3\", \"where\" : \"catch\", \"exception\" : \"ProductDeleteException\"}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672405092,
+      "nanoOfSecond" : 948013200
+    },
+    "thread" : "main",
+    "level" : "INFO",
+    "loggerName" : "applicationSpooned.products.ProductRepository",
+    "message" : "{\"user\" : \"3\", \"method\" : \"deleteProduct\", \"parameters\" : [\"e\"]}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672405092,
+      "nanoOfSecond" : 948013200
+    },
+    "thread" : "main",
+    "level" : "DEBUG",
+    "loggerName" : "applicationSpooned.products.ProductRepository",
+    "message" : "{\"user\" : \"3\", \"where\" : \"throw\", \"exception\" : \"ProductDeleteException\"}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672405092,
+      "nanoOfSecond" : 948013200
+    },
+    "thread" : "main",
+    "level" : "DEBUG",
+    "loggerName" : "applicationSpooned.main.Main",
+    "message" : "{\"user\" : \"3\", \"where\" : \"catch\", \"exception\" : \"ProductDeleteException\"}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672405125,
+      "nanoOfSecond" : 954043200
+    },
+    "thread" : "main",
+    "level" : "INFO",
+    "loggerName" : "applicationSpooned.products.ProductRepository",
+    "message" : "{\"user\" : \"3\", \"method\" : \"deleteProduct\", \"parameters\" : [\"\"]}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672405125,
+      "nanoOfSecond" : 955048600
+    },
+    "thread" : "main",
+    "level" : "DEBUG",
+    "loggerName" : "applicationSpooned.products.ProductRepository",
+    "message" : "{\"user\" : \"3\", \"where\" : \"throw\", \"exception\" : \"ProductDeleteException\"}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672405125,
+      "nanoOfSecond" : 955048600
+    },
+    "thread" : "main",
+    "level" : "DEBUG",
+    "loggerName" : "applicationSpooned.main.Main",
+    "message" : "{\"user\" : \"3\", \"where\" : \"catch\", \"exception\" : \"ProductDeleteException\"}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672405129,
+      "nanoOfSecond" : 701034400
+    },
+    "thread" : "main",
+    "level" : "INFO",
+    "loggerName" : "applicationSpooned.products.ProductRepository",
+    "message" : "{\"user\" : \"3\", \"method\" : \"deleteProduct\", \"parameters\" : [\"9\"]}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+    "instant" : {
+      "epochSecond" : 1672405136,
+      "nanoOfSecond" : 182014400
+    },
+    "thread" : "main",
+    "level" : "INFO",
+    "loggerName" : "applicationSpooned.products.ProductRepository",
+    "message" : "{\"user\" : \"3\", \"method\" : \"getProduct\", \"parameters\" : [\"9\"]}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  },
+  {
+    "instant" : {
+      "epochSecond" : 1672405136,
+      "nanoOfSecond" : 182014400
+    },
+    "thread" : "main",
+    "level" : "DEBUG",
+    "loggerName" : "applicationSpooned.products.ProductRepository",
+    "message" : "{\"user\" : \"3\", \"where\" : \"throw\", \"exception\" : \"ProductNotFoundException\"}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+  "instant" : {
+    "epochSecond" : 1672405136,
+    "nanoOfSecond" : 201785600
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"3\", \"where\" : \"catch\", \"exception\" : \"ProductNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405148,
+    "nanoOfSecond" : 455518100
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.users.UserRepository",
+  "message" : "{\"user\" : \"null\", \"method\" : \"createUser\", \"parameters\" : [\"4\", \"4\", \"4\", \"4\", \"4\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405152,
+    "nanoOfSecond" : 796953900
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"4\", \"where\" : \"throw\", \"exception\" : \"OptionNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405152,
+    "nanoOfSecond" : 796953900
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"4\", \"where\" : \"catch\", \"exception\" : \"OptionNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405154,
+    "nanoOfSecond" : 741067800
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"4\", \"where\" : \"throw\", \"exception\" : \"OptionNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405154,
+    "nanoOfSecond" : 741067800
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"4\", \"where\" : \"catch\", \"exception\" : \"OptionNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405155,
+    "nanoOfSecond" : 352679500
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"4\", \"where\" : \"throw\", \"exception\" : \"OptionNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405155,
+    "nanoOfSecond" : 353667200
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"4\", \"where\" : \"catch\", \"exception\" : \"OptionNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405156,
+    "nanoOfSecond" : 975862100
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"4\", \"where\" : \"throw\", \"exception\" : \"OptionNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405156,
+    "nanoOfSecond" : 975862100
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"4\", \"where\" : \"catch\", \"exception\" : \"OptionNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405169,
+    "nanoOfSecond" : 517652400
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"4\", \"method\" : \"getProduct\", \"parameters\" : [\"5\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405169,
+    "nanoOfSecond" : 517652400
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"4\", \"method\" : \"copy\", \"parameters\" : []}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405176,
+    "nanoOfSecond" : 595772100
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"4\", \"method\" : \"getProduct\", \"parameters\" : [\"4\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405176,
+    "nanoOfSecond" : 596734800
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"4\", \"method\" : \"copy\", \"parameters\" : []}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405214,
+    "nanoOfSecond" : 279952400
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.users.UserRepository",
+  "message" : "{\"user\" : \"null\", \"method\" : \"createUser\", \"parameters\" : [\"6\", \"6\", \"6\", \"66\", \"6\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405235,
+    "nanoOfSecond" : 838548000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"6\", \"method\" : \"addProduct\", \"parameters\" : [\"9\", \"gateau\", \"20.0\", \"Sat Nov 11 00:00:00 CET 11111\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405240,
+    "nanoOfSecond" : 144183600
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"6\", \"method\" : \"getProduct\", \"parameters\" : [\"r\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405240,
+    "nanoOfSecond" : 145149100
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"6\", \"where\" : \"throw\", \"exception\" : \"ProductNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405240,
+    "nanoOfSecond" : 145149100
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"6\", \"where\" : \"catch\", \"exception\" : \"ProductNotFoundException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405246,
+    "nanoOfSecond" : 640911200
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"6\", \"method\" : \"getProduct\", \"parameters\" : [\"9\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405246,
+    "nanoOfSecond" : 641908200
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"6\", \"method\" : \"copy\", \"parameters\" : []}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405254,
+    "nanoOfSecond" : 46164200
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"6\", \"method\" : \"setName\", \"parameters\" : [\"gateau de lune\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405254,
+    "nanoOfSecond" : 47165200
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"6\", \"method\" : \"editProduct\", \"parameters\" : [\"[id : 9][nom : gateau de lune][prix : 20.0][date limite : Sat Nov 11 00:00:00 CET 11111]\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+},
+  {
+    "instant" : {
+      "epochSecond" : 1672405254,
+      "nanoOfSecond" : 47165200
+    },
+    "thread" : "main",
+    "level" : "INFO",
+    "loggerName" : "applicationSpooned.products.Product",
+    "message" : "{\"user\" : \"6\", \"method\" : \"getId\", \"parameters\" : []}",
+    "endOfBatch" : false,
+    "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+    "threadId" : 1,
+    "threadPriority" : 5
+  }
+, {
+  "instant" : {
+    "epochSecond" : 1672405254,
+    "nanoOfSecond" : 58164800
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"6\", \"method\" : \"getName\", \"parameters\" : []}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405254,
+    "nanoOfSecond" : 59191000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"6\", \"method\" : \"getPrice\", \"parameters\" : []}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405254,
+    "nanoOfSecond" : 59191000
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"6\", \"method\" : \"getExpirationDate\", \"parameters\" : []}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405257,
+    "nanoOfSecond" : 433034000
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"6\", \"where\" : \"catch\", \"exception\" : \"NumberFormatException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405260,
+    "nanoOfSecond" : 681521300
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"6\", \"where\" : \"catch\", \"exception\" : \"NumberFormatException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405266,
+    "nanoOfSecond" : 392383200
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"6\", \"method\" : \"setPrice\", \"parameters\" : [\"10.0\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405266,
+    "nanoOfSecond" : 393455100
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"6\", \"method\" : \"editProduct\", \"parameters\" : [\"[id : 9][nom : gateau de lune][prix : 10.0][date limite : Sat Nov 11 00:00:00 CET 11111]\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405266,
+    "nanoOfSecond" : 393455100
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"6\", \"method\" : \"getId\", \"parameters\" : []}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405266,
+    "nanoOfSecond" : 393455100
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"6\", \"method\" : \"getName\", \"parameters\" : []}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405266,
+    "nanoOfSecond" : 393455100
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"6\", \"method\" : \"getPrice\", \"parameters\" : []}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405266,
+    "nanoOfSecond" : 393455100
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"6\", \"method\" : \"getExpirationDate\", \"parameters\" : []}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405269,
+    "nanoOfSecond" : 592198800
+  },
+  "thread" : "main",
+  "level" : "DEBUG",
+  "loggerName" : "applicationSpooned.main.Main",
+  "message" : "{\"user\" : \"6\", \"where\" : \"catch\", \"exception\" : \"ParseException\"}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405277,
+    "nanoOfSecond" : 717080400
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"6\", \"method\" : \"setExpirationDate\", \"parameters\" : [\"Tue Dec 12 00:00:00 CET 2023\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405277,
+    "nanoOfSecond" : 717080400
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"6\", \"method\" : \"editProduct\", \"parameters\" : [\"[id : 9][nom : gateau de lune][prix : 10.0][date limite : Tue Dec 12 00:00:00 CET 2023]\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405277,
+    "nanoOfSecond" : 717080400
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"6\", \"method\" : \"getId\", \"parameters\" : []}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405277,
+    "nanoOfSecond" : 718040200
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"6\", \"method\" : \"getName\", \"parameters\" : []}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405277,
+    "nanoOfSecond" : 718040200
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"6\", \"method\" : \"getPrice\", \"parameters\" : []}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672405277,
+    "nanoOfSecond" : 718040200
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.Product",
+  "message" : "{\"user\" : \"6\", \"method\" : \"getExpirationDate\", \"parameters\" : []}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+},{
+  "instant" : {
+    "epochSecond" : 1672417490,
+    "nanoOfSecond" : 849949600
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.users.UserRepository",
+  "message" : "{\"user\" : \"null\", \"method\" : \"logUser\", \"parameters\" : [\"1\", \"1\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672417490,
+    "nanoOfSecond" : 903629600
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.users.User",
+  "message" : "{\"user\" : \"null\", \"method\" : \"checkPassword\", \"parameters\" : [\"1\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672417490,
+    "nanoOfSecond" : 905630400
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.users.UserRepository",
+  "message" : "{\"user\" : \"null\", \"method\" : \"getUser\", \"parameters\" : [\"1\"]}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672417492,
+    "nanoOfSecond" : 194582900
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"1\", \"method\" : \"getAllProduct\", \"parameters\" : []}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+, {
+  "instant" : {
+    "epochSecond" : 1672417495,
+    "nanoOfSecond" : 255649900
+  },
+  "thread" : "main",
+  "level" : "INFO",
+  "loggerName" : "applicationSpooned.products.ProductRepository",
+  "message" : "{\"user\" : \"1\", \"method\" : \"getAllProduct\", \"parameters\" : []}",
+  "endOfBatch" : false,
+  "loggerFqcn" : "org.apache.logging.log4j.spi.AbstractLogger",
+  "threadId" : 1,
+  "threadPriority" : 5
+}
+
+]
