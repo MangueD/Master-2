@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883815037005",
+    "project_id": "hai912i-tp3-27156",
+    "storage_bucket": "hai912i-tp3-27156.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883815037005:android:7ea82cab153c342f088404",
+        "android_client_info": {
+          "package_name": "com.example.hai912i_tp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883815037005-1fh38p9adf3j9bg665eatkk9bttojo5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJRLWj1XUbFvyWPj9LuwQX-YrLdwlr8xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883815037005-1fh38p9adf3j9bg665eatkk9bttojo5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
