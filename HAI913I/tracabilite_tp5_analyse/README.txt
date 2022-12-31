@@ -1,25 +1,14 @@
-id:1 mdp:1
-user qui a créée les produits, et les affiches tous
-il se trompe sur la creation des produits en faisant toutes les erreurs possibles
+INSTALLATION:
+_ J'ai utilisé Intellij IDEA pour la création de ce projet.
+_ Il faudra soit utiliser un sdk 17 ou supérieur ou bien modifier le build dans le pom.xml et le mettre à la version souhaité
+_ Sinon il faut juste l'ouvrir avec Intellij
 
-id:2 mdp:2
-user qui va plus read que write
-il se trompe d'id plusieurs fois
-
-id:3 mdp:3
-user qui  read et write
-il va notament faire des erreurs de supressions
-
-id:4 mdp:4
-user qui va chercher le produit le plus cher
-Il se trompe sur les options
-
-id:5 mdp:5
-user qui va chercher des produits sauf le plus cher
-Il se trompe sur les options
-
-id:6 mdp 6
-user qui va creer un produit et l'éditer plusireurs fois
-Et va se tromper durant l'édition sur le prix et la date
-
-
+UTILISATION
+l'utilisation est montré dans le rapport avec des screenshots
+_ Pour lancer l'application : lancer le main dans src/main/java/application/main/Main
+_ Pour lancer l'application avec le logging : lancer le main dans src/main/java/applicationSpooned/main/Main
+le logging généré se trouve dans /logs/out
+_ Pour lancer la génération du code par Spoon : lancer le main dans src/main/java/spooning/main/Main
+le code généré se trouvera dans /spooned
+_ Pour lancer l'analyse : lancer le main dans src/main/java/analyzer/main/Main
+l'analyse se fera sur le documents /logs/examples/tp_example2.json. Pour changer le document de loggings, changer le path sur la ligne 21 du Main.class
